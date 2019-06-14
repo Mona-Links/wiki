@@ -3,3 +3,6 @@
 主に日本語で、可能であれば英語を併記します。
 
 https://link-collection-for-monacoin.github.io/wiki/
+
+### This is Link collection for monacoin.
+
