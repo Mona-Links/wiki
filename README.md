@@ -9,7 +9,7 @@
 準備中
 
 ### URL
-https://link-collection-for-monacoin.github.io/wiki/
+https://mona-links.github.io/wiki/
 
 ### This is Link collection for monacoin.
 
