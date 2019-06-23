@@ -6,4 +6,4 @@ These files have been (or are hereby) released into the public domain by its aut
 
 これらのファイルは、著作者であるMonacoin情報サイトによってパブリックドメインに置かれています。これは全世界に適用されます。 著作物をパブリックドメインに置くことが法律上不可能である場合： Monacoin情報サイトは、何人に対しても、法律上課される条件以外のいかなる条件も付することなく、あらゆる目的でこの著作物を利用することを許諾します。
 
-Web:https://monacoin.trance-cat.com/
+Web: https://monacoin.trance-cat.com/
