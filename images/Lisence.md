@@ -1,4 +1,6 @@
-These file has been (or is hereby) released into the public domain by its author, Daimonji Design. This applies worldwide.
+Lisence
+
+These files have been (or are hereby) released into the public domain by its author, Daimonji Design. This applies worldwide.
 In case this is not legally possible:
 Daimonji Design grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
 
