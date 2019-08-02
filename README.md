@@ -4,12 +4,12 @@
 
 追加のPull requestsをお願いいたします。
 
+### URL
+https://mona-links.github.io/wiki/
+
 ### 更新ポリシー
 
 準備中
-
-### URL
-https://mona-links.github.io/wiki/
 
 ### This is Link collection for monacoin.
 
