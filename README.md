@@ -1,3 +1,6 @@
+### URL
+https://mona-links.github.io/wiki/
+
 ### モナコインに関連するリンク集を作成しています。
 
 主に英語で表記します。
@@ -6,12 +9,10 @@
 
 追加のPull requestsをお願いいたします。
 
-### URL
-https://mona-links.github.io/wiki/
 
 ### 更新ポリシー
 
-準備中
+・ 活動が継続的に認められるコンテツ
 
 ### This is Link collection for monacoin.
 
