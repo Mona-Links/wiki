@@ -27,16 +27,16 @@ h5 {margin-top:15px;}
 .jinja {background-color:#CB4829;}
 .jinja a {color:#F39800 !important;}
 .jinja small {color:#D5EAD8 !important;}
-.sidebar {position:fixed;top: 0;bottom: 0;left: 0;z-index: 50;box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);width:16em;padding:12px;overflow-x: hidden;overflow-y: scroll;}
-.sidebar-sticky {position: -webkit-sticky;position: sticky;top: 48px;height: calc(100vh - 48px;);padding-top: .5rem;}
 @media (min-width: 768px){
-.sidebar_margin {margin-left:16em!important;margin-right:0em!important;padding-bottom:30px!important;padding-top:10px!important;)}}
+.sidebar {position:fixed;top: 0;bottom: 0;left: 0;z-index: 50;box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);width:16em;padding:0 12px 0 30px 12px;overflow-x: hidden;overflow-y: scroll;}
+.sidebar_margin {margin-left:18em!important;margin-right:0em!important;padding-bottom:30px!important;padding-top:10px!important;)}}
 @media (max-width: 768px){
+.sidebar {box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);margin:0 2rem!important;}
 .sidebar_margin {padding-top:10px!important;padding-bottom:30px!important;margin:0 2rem!important;}}
 </style> 
   </head>
 <body>
-<div class="d-none d-lg-block sidebar">
+<div class="sidebar">
 <h5>Table of Contents</h5>
         <a class="list-group-item list-group-item-action" href="#Character">Character</a>
         <a class="list-group-item list-group-item-action" href="#Community">Community</a>
@@ -104,7 +104,7 @@ h5 {margin-top:15px;}
     <p class="card-text">Bitcointalk is Internet discussion board.</p>
   </div></div></div>
 </div>
-<h5 id="Comics">Comics</h5>
+<h5 id="comics">Comics</h5>
   <div class="row">
   <div class="col-sm-12 col-md-7 col-xl-9 mb-2"><div class="card text-white bg-dark h-100">
     <div class="card-header">
@@ -623,7 +623,7 @@ Cryptocurrency in Japan 3: Mona party & Tip Mona<br>
   </pre></p>
  </div></div></div>
     <br><br><br></div></main>
-<footer class="fixed-bottom" style="background-color:#ccc">
+<footer class="fixed-bottom" style="background-color:#ccc;padding-left:2rem;">
 Twitter: <a href="https://twitter.com/MonaLinks" target=”_blank”>@MonaLinks</a> / Github: <a href="https://github.com/Mona-Links/wiki">Mona-Links</a>
 </footer>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
