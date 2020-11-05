@@ -12,7 +12,7 @@ https://mona-links.github.io/wiki/
 
 ### 更新ポリシー
 
-・ 活動が継続的に認められるコンテツ
+・ 活動が継続的に認められるコンテンツ
 
 ### This is Link collection for monacoin.
 
